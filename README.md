@@ -4,7 +4,9 @@
   <br/>
   <a href="https://github.com/Relsola" target="_blank"><img src="https://count.getloli.com/get/@Relsola?theme=rule34" alt="Visitor Counter"></a>
 
-</div> 
+  <h1>Statistics</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relsola&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+</div>
 
 <div align="center">
   <h1>Tech Stack</h1>
