@@ -6,7 +6,6 @@
 
   <h1>Statistics</h1>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api?theme=onedark&username=Relsola&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
   <img src="https://github-readme-stats.lovesykun.cn/api?username=Relsola&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
   </picture>
   
